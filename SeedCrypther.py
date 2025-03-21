@@ -156,6 +156,7 @@ def main():
                 else:
                     print("Max password attempts reached. Exiting.")
                     sys.exit(1)
+#copyright SimoneBrunelli
         
         else:
             print("Invalid option. Please enter 'E' for encryption or 'D' for decryption.")
